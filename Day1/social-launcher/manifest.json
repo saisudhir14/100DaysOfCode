@@ -9,6 +9,6 @@
         "default_icon" : "menu.png",
         "default_popup" : "popup.html"
     },
-    "permissions" : 
+    "permissions" : "[activeTab]"
         
 }
